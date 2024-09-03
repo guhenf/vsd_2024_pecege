@@ -1,0 +1,74 @@
+3. Crie um pseudocodigo:
+
+Start
+
+Initialize year_1 = 1998
+Initialize year_2 = 2024
+Initialize years_old = 0
+
+Input name
+
+calculate years_old = year_2 - year_2
+
+Initialize resultado = ("Meu nome é " + name + "e eu tenho " + year_old + "anos de idade.")
+
+output resultado.
+
+End
+
+===========================================================================================
+
+Project Management Methodology (02 de Setembro de 2024)
+
+goal = objetivo
+behavior = comportamento
+
+=======================================================
+
+Exercise:
+
+1. To gain _access_ into the system, I had to _boot_ , or _up_, the computer and _login_ with my password.
+
+2. Can you _transfer_ the _file_, or digital info, from your computer to mine so I can _download_ it into my _hardrive_ ?
+
+3. I needed to __, or enhance, the __ program, so I had to __ the __ , or newest, updates.
+
+4. The laptops __ include a description of its __ and tools and ots __, or transmission capacity.
+
+5. Setting up a __ means we can __ all the devices, which in an __ way to share information.
+
+6. I want to write __ , or a programming language, to __ a mobile __ that can your health.
+
+7. A computer __ is an unintentional software error, a __ forces systems to __ harmful functions on purpose.
+
+8. One __ , disadvantage, of having an older __ is taht it ins't as __ with newer programs.
+
+9. A systems __ depende on its aability to __ full __ or operational capacity, in a stressfull __ .
+
+10. My __ is to __ all the info in our public __ and store it on the company __ , or private server.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
