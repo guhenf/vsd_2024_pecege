@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  background-color: #160f07;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+  background: url('../assets/pizza.webp');
+  background-size: cover;
+  padding-bottom: 2rem;
+}
+
+main {
+  padding: 1.5rem;
+  background-color: #000000bb;
+  border-radius: 1rem;
+  max-width: 55rem;
+  margin: auto;
+}
+
+header img {
+  width: 124px;
+  border-radius: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.45rem;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.item {
+  font-size: 1.20rem;
+  margin-top: 1.25rem;
+  list-style: none;
+}
+
+.item h4 {
+  border-bottom: 3px dotted;
+}
+
+.item-name {
+  display: flex;
+  justify-content: space-between;
+}
+
+h4 strong {
+  font-size: 1.25rem;
+}
+
+.prices {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.prices li {
+  margin-left: 1rem;
+}
+
+.separator {
+  margin: 1.25rem 0;
+}
+
+.separator p {
+  border-top: 1px solid;
+  margin: 0.55rem 0;
+}
+
+.drinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  justify-content: space-between;
+  font-size: 1.10rem;
+}
+
+.drink-item {
+  list-style: none; 
+  border-left: 1px solid;
+  padding: 0.5rem;
+}

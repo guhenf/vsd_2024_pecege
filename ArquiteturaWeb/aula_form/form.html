@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Forms</title>
+</head>
+
+<body>
+    <section>
+        <form onSubmit="handleSubmit(event)">
+        <label for="email">E-mail</label>
+        <input type="email" id="email" name="email" placeholder="exemplo@exemplo.com">
+        <label for="email">Password</label>
+        <input type="password" id="password" name="password" placeholder="Password">
+        <input class="submit" type="submit" value="Login">
+    </form>
+</section>
+
+<script>
+
+    function handleSubmit(event){
+        event.preventDefault()
+
+        const form = event.target
+        const formData = new FormData(form)
+
+        const json = {
+            email: formData.get("email"),
+            password: formData.get("password")
+        }
+
+        console.log(json)
+    }
+
+</script>
+
+</body>
+</html>
